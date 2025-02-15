@@ -68,7 +68,7 @@ Ensure you have the following installed:
 ![Set Track](assets/screenshots/set_trackdays.png)
 
 ### Track Progress
-![Track Progress](assets/screenshots/calories_confirmation.png)
+![Track Progress](assets/screenshots/calories_progress.png)
 
 
 ## 🔍 How to Use
