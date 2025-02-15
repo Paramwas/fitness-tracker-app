@@ -47,7 +47,7 @@ Ensure you have the following installed:
 
 
 ### Homepage
-![Homepage](https://drive.google.com/file/d/1wfqGSA_JgcD3E-bqbfsMZNeyRaExAqPQ/view?usp=sharing)
+![Homepage](assets/screenshots/home_page.png)
 
 ### Workout Confirmation
 ![Workout Confirmation](https://drive.google.com/uc?id=1HY-LBuuBSmzLYhEtb1kVaJQjXXs4MOBG)
