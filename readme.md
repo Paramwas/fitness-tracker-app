@@ -43,37 +43,32 @@ Ensure you have the following installed:
 
 ## 📷 Screenshots
 
+
+
+
 ### Homepage
-<iframe src="https://drive.google.com/file/d/1wfqGSA_JgcD3E-bqbfsMZNeyRaExAqPQ/view?usp=drive_link" width="600" height="400"></iframe>
+![Homepage](https://drive.google.com/uc?id=1wfqGSA_JgcD3E-bqbfsMZNeyRaExAqPQ)
 
-### WorkoutConfirmation
+### Workout Confirmation
+![Workout Confirmation](https://drive.google.com/uc?id=1HY-LBuuBSmzLYhEtb1kVaJQjXXs4MOBG)
 
-<iframe src="https://drive.google.com/file/d/1HY-LBuuBSmzLYhEtb1kVaJQjXXs4MOBG/view?usp=drive_link" width="600" height="400"></iframe>
+### Set Days
+![Set Days](https://drive.google.com/uc?id=1D5Z4L_-7nqY9cJnuE1zwyj8R_6zCh9zO)
 
-### SET DAYS 
-<iframe src="https://drive.google.com/file/d/1D5Z4L_-7nqY9cJnuE1zwyj8R_6zCh9zO/view?usp=drive_link" width="600" height="400"></iframe>
+### Add Workout
+![Add Workout](https://drive.google.com/uc?id=1L1LIdMc1elPz4Om2qXqe1ifrTxupY_gZ)
 
-### ADD WORKOUT
-<iframe src="https://drive.google.com/file/d/1L1LIdMc1elPz4Om2qXqe1ifrTxupY_gZ/view?usp=drive_link" width="600" height="400"></iframe>
+### Track Workout Progress
+![Track Workout Progress](https://drive.google.com/uc?id=1qRfVSOw-ZsJYbxGElDCYpR4cdqMyWZvD)
 
-### TRACK WORKOUT PROGRESS
-<iframe src="https://drive.google.com/file/d/1qRfVSOw-ZsJYbxGElDCYpR4cdqMyWZvD/view?usp=drive_link" width="600" height="400"></iframe>
+### Calories Page
+![Calories Page](https://drive.google.com/uc?id=13BapBk2YXgW8d8Wgz4z0E-FGSWLB_r_p)
 
-### cALORIES PAGE
-<iframe src="https://drive.google.com/file/d/13BapBk2YXgW8d8Wgz4z0E-FGSWLB_r_p/view?usp=drive_link" width="600" height="400"></iframe>
+### Set Track
+![Set Track](https://drive.google.com/uc?id=1btRwM95UDjaNOsGrhYN_MLYqudlfmq-E)
 
-### SET TRACK
-<iframe src="https://drive.google.com/file/d/1btRwM95UDjaNOsGrhYN_MLYqudlfmq-E/view?usp=drive_link" width="600" height="400"></iframe>
-
-### ADD FOOD
-<iframe src="https://drive.google.com/file/d/1FbwylQkqDXKgwH1RBo42giKrO54iYPZj/preview" width="600" height="400"></iframe>
-
-
-### TRACK PROGRESS
-<iframe src="https://drive.google.com/file/d/1_9ERRWj1J-CgtzY7SIUv8a70EokGLXy_/view?usp=drive_link" width="600" height="400"></iframe>
-
-### Addfood
-<iframe src="https://drive.google.com/file/d/1FbwylQkqDXKgwH1RBo42giKrO54iYPZj/view?usp=drive_link" width="600" height="400"></iframe>
+### Track Progress
+![Track Progress](https://drive.google.com/uc?id=1_9ERRWj1J-CgtzY7SIUv8a70EokGLXy_)
 
 
 ## 🔍 How to Use
