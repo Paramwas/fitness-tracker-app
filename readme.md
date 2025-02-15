@@ -50,25 +50,25 @@ Ensure you have the following installed:
 ![Homepage](assets/screenshots/home_page.png)
 
 ### Workout Confirmation
-![Workout Confirmation](https://drive.google.com/uc?id=1HY-LBuuBSmzLYhEtb1kVaJQjXXs4MOBG)
+![Workout Confirmation](assets/screenshots/workout_confirmation.png)
 
 ### Set Days
-![Set Days](https://drive.google.com/uc?id=1D5Z4L_-7nqY9cJnuE1zwyj8R_6zCh9zO)
+![Set Days](assets/screenshots/set_trackdays.png)
 
 ### Add Workout
-![Add Workout](https://drive.google.com/uc?id=1L1LIdMc1elPz4Om2qXqe1ifrTxupY_gZ)
+![Add Workout](assets/screenshots/add_workout.png)
 
 ### Track Workout Progress
-![Track Workout Progress](https://drive.google.com/uc?id=1qRfVSOw-ZsJYbxGElDCYpR4cdqMyWZvD)
+![Track Workout Progress](assets/screenshots/seeprogress.png)
 
 ### Calories Page
-![Calories Page](https://drive.google.com/uc?id=13BapBk2YXgW8d8Wgz4z0E-FGSWLB_r_p)
+![Calories Page](assets/screenshots/calories_confirmation.png)
 
 ### Set Track
-![Set Track](https://drive.google.com/uc?id=1btRwM95UDjaNOsGrhYN_MLYqudlfmq-E)
+![Set Track](assets/screenshots/set_trackdays.png)
 
 ### Track Progress
-![Track Progress](https://drive.google.com/uc?id=1_9ERRWj1J-CgtzY7SIUv8a70EokGLXy_)
+![Track Progress](assets/screenshots/calories_confirmation.png)
 
 
 ## 🔍 How to Use
