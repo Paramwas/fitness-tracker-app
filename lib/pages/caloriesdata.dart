@@ -7,7 +7,7 @@ class CaloriesPage extends StatefulWidget {
 
 class _ProgressPageState extends State<CaloriesPage> {
   List<Map<String, String>> workoutData = [];
-  Set<String> uniqueDates = {}; // Stores unique dates to track progress
+  Set<String> uniqueDates = {}; 
   int totalDays = 10; // User-defined total workout days
   double progress = 0.0;
 
@@ -16,14 +16,14 @@ class _ProgressPageState extends State<CaloriesPage> {
   TextEditingController setsController = TextEditingController();
   TextEditingController daysController = TextEditingController();
 
-  // Function to update progress
+ 
   void _updateProgress() {
     setState(() {
       progress = uniqueDates.length / totalDays;
     });
   }
 
-  // Function to add a new workout entry
+  
   void _showAddWorkoutDialog() {
     showDialog(
       context: context,
@@ -97,14 +97,14 @@ class _ProgressPageState extends State<CaloriesPage> {
           ElevatedButton(
             onPressed: () {
               setState(() {
-                // Add new workout entry
+               
                 workoutData.add({
                   "date": dateController.text,
                   "food": workoutController.text,
                   "calories": setsController.text,
                 });
 
-                // Check if the date is unique (first workout of that day)
+               
                 if (!uniqueDates.contains(dateController.text)) {
                   uniqueDates.add(dateController.text);
                 }
@@ -114,7 +114,7 @@ class _ProgressPageState extends State<CaloriesPage> {
                 workoutController.clear();
                 setsController.clear();
 
-                // Update progress
+               
                 _updateProgress();
               });
               Navigator.pop(context);
@@ -126,7 +126,7 @@ class _ProgressPageState extends State<CaloriesPage> {
     );
   }
 
-  // Function to set total workout days
+ 
   void _showSetDaysDialog() {
     showDialog(
       context: context,
@@ -167,7 +167,7 @@ class _ProgressPageState extends State<CaloriesPage> {
               setState(() {
                 totalDays = int.tryParse(daysController.text) ?? 10;
                 progress =
-                    uniqueDates.length / totalDays; // Recalculate progress
+                    uniqueDates.length / totalDays;
               });
               Navigator.pop(context);
             },
@@ -176,7 +176,7 @@ class _ProgressPageState extends State<CaloriesPage> {
               backgroundColor: const Color.fromARGB(255, 94, 248, 107),
               shape: RoundedRectangleBorder(
                 borderRadius:
-                    BorderRadius.circular(2), // Adjust corner radius if needed
+                    BorderRadius.circular(2), 
               ),
             ),
             child: Text("Set",
@@ -206,7 +206,7 @@ class _ProgressPageState extends State<CaloriesPage> {
               Icons.calendar_today,
               color: Colors.white,
             ),
-            onPressed: _showSetDaysDialog, // Button to set total days
+            onPressed: _showSetDaysDialog, 
           )
         ],
       ),
@@ -242,7 +242,7 @@ class _ProgressPageState extends State<CaloriesPage> {
               ],
             ),
           ),
-          // Workout History Table
+         
           Expanded(
             child: SingleChildScrollView(
               child: DataTable(
