@@ -8,7 +8,7 @@ class CaloriesPage extends StatefulWidget {
 class _ProgressPageState extends State<CaloriesPage> {
   List<Map<String, String>> workoutData = [];
   Set<String> uniqueDates = {}; 
-  int totalDays = 10; // User-defined total workout days
+  int totalDays = 10; 
   double progress = 0.0;
 
   TextEditingController dateController = TextEditingController();
